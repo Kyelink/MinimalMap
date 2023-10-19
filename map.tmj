@@ -1726,7 +1726,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"ffxii.mp3"
+                         "value":"public\/ffxii.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
