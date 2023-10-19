@@ -1724,11 +1724,6 @@
                  "name":"template audio zone",
                  "properties":[
                         {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":0.5
-                        }, 
-                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"ffxii"
@@ -1737,8 +1732,42 @@
                  "type":"area",
                  "visible":true,
                  "width":225,
-                 "x":1105,
-                 "y":319
+                 "x":1110,
+                 "y":308
+                }, 
+                {
+                 "height":135,
+                 "id":28,
+                 "name":"template audio zone 2",
+                 "properties":[
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"ffxii.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":225,
+                 "x":1400.5,
+                 "y":307.5
+                }, 
+                {
+                 "height":135,
+                 "id":29,
+                 "name":"template audio zone 3",
+                 "properties":[
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/transfert.free.fr\/26Gvu3e"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":225,
+                 "x":1408.5,
+                 "y":513.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2064,7 +2093,7 @@
          "y":0
         }],
  "nextlayerid":66,
- "nextobjectid":28,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {
