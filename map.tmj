@@ -1668,6 +1668,106 @@
                  "width":50.2727272727272,
                  "x":438.484848484849,
                  "y":96.3333333333333
+                }, 
+                {
+                 "height":114,
+                 "id":20,
+                 "name":"template co-website",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/excalidraw.com\/"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Yo test!"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":230,
+                 "x":1103,
+                 "y":735
+                }, 
+                {
+                 "height":139,
+                 "id":24,
+                 "name":"template silent zone",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":240,
+                 "x":1100,
+                 "y":514
+                }, 
+                {
+                 "height":135,
+                 "id":25,
+                 "name":"template audio zone",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"ffxii.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":225,
+                 "x":1105,
+                 "y":319
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":65,
+         "name":"configuration",
+         "objects":[
+                {
+                 "height":0,
+                 "id":23,
+                 "name":"Propri\u00e9t\u00e91",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"nom",
+                         "type":"string",
+                         "value":"jean-mich"
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":1189,
+                 "y":160
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1963,8 +2063,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":65,
- "nextobjectid":20,
+ "nextlayerid":66,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "properties":[
         {
