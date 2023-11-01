@@ -2054,15 +2054,48 @@
                 }, 
                 {
                  "ellipse":true,
-                 "height":766.666666666667,
+                 "height":690.666666666667,
                  "id":32,
                  "name":"roof_under",
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":1068.66666666667,
-                 "x":171.333333333333,
-                 "y":679.333333333333
+                 "width":1004.66666666667,
+                 "x":199.333333333333,
+                 "y":718
+                }, 
+                {
+                 "ellipse":true,
+                 "height":186.666666666667,
+                 "id":33,
+                 "name":"jitsi",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":585.333333333333,
+                 "x":408,
+                 "y":774.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2527,7 +2560,7 @@
          "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":33,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {
